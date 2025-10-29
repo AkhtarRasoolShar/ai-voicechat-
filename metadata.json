@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Live Audio Assistant",
+  "description": "Engage in a real-time, voice-based conversation with Gemini. This application uses the Gemini 2.5 Native Audio (Live API) to stream audio from your microphone and receive spoken responses, complete with live transcription.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
